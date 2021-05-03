@@ -1,0 +1,43 @@
+! Instagram
+! Navigation bar - Explore link
+instagram.com##div.Fifk5:nth-of-type(3)
+! Home page - Suggestions For You sidebar
+instagram.com##._8UZ6e
+! Explore page - Default Timeline
+instagram.com##.K6yM_
+
+! LinkedIn
+! Navigation bar - Premium trial link
+www.linkedin.com##.global-nav__spotlight.global-nav__primary-item
+! Home page - Today's most viewed courses sidebar
+linkedin.com##.pb3.pt2.learning-top-courses
+! Home page - Timeline Promoted posts (desktop only)
+linkedin.com##span:has-text(Promoted):upward(6)
+! My Network page - Suggestions (Online events for you, People you may know from <School>, People you may know in <Location>, People you may know from <Group>, Recommended pages for you, Recommended people for you, Groups you may be interested in)
+linkedin.com##.ember-view.overflow-hidden.mb4.artdeco-card
+! My Network page - More suggestions
+linkedin.com###main > div > .ember-view.artdeco-card
+
+! Mint.com
+! Overview page - Offer banner
+mint.intuit.com##.HypothesisTestingView
+! Transactions page - Top offer banner
+mint.intuit.com###TopTxnOfferWidgetContainer
+! Transactions page - In-line offer banner
+mint.intuit.com###TxnOfferWidgetContainer
+
+! Pocket
+! Navigation bar - Upgrade button
+getpocket.com###global-nav\.upgrade-link
+! Navigation bar - Discover button
+getpocket.com###global-nav-discover-link
+
+! Twitter
+! Home Page - Promoted tweets in timeline
+twitter.com##[data-testid="placementTracking"]
+! Home page - What's Happening sidebar
+twitter.com##*[aria-label="Timeline: Trending now"]
+! Home page - Who to follow sidebar
+twitter.com##*[aria-label="Who to follow"]
+! Explore page - Default Timeline (trending news, who to follow, trending topics, etc.)
+twitter.com##*[aria-label="Timeline: Explore"]
