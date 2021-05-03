@@ -1,2 +1,2 @@
 # FocusFilters
-A repository containing filters to block distracting web elements.
+A repository containing custom filters to hide distracting web elements. 🕸🚫
