@@ -15,8 +15,8 @@ linkedin.com##.pb3.pt2.learning-top-courses
 linkedin.com##span:has-text(Promoted):upward(6)
 ! My Network page - Suggestions (Online events for you, People you may know from <School>, People you may know in <Location>, People you may know from <Group>, Recommended pages for you, Recommended people for you, Groups you may be interested in)
 linkedin.com##.ember-view.overflow-hidden.mb4.artdeco-card
-! My Network page - More suggestions
-linkedin.com###main > div > .ember-view.artdeco-card
+! My Network page - More suggestions for you
+linkedin.com##[data-launchpad-scroll-anchor="pymk"]
 
 ! Mint.com
 ! Overview page - Offer banner
