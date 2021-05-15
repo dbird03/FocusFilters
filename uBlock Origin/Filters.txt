@@ -39,5 +39,7 @@ twitter.com##[data-testid="placementTracking"]
 twitter.com##*[aria-label="Timeline: Trending now"]
 ! Home page - Who to follow sidebar
 twitter.com##*[aria-label="Who to follow"]
+! Home page - Topics to follow sidebar
+twitter.com##*[aria-labelledby="accessible-list-0"]
 ! Explore page - Default Timeline (trending news, who to follow, trending topics, etc.)
 twitter.com##*[aria-label="Timeline: Explore"]
